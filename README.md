@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Anuj Patel
 - 🎓 Currently, I am undergraduate at Indian Institute of Information Technology, Jabalpur
-<!-- - 👀 I’m interested in  -->
+      in Computer Science & Engineering department
 - 🌱 I’m currently learning Web Development
+<!-- - 👀 I’m interested in  -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
