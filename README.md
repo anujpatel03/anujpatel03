@@ -72,11 +72,6 @@
 </div>
 
 <div align="center">
-  <h3>Profile Visits</h3>
-  <img src="https://profile-counter.glitch.me/anujpatel03/count.svg" alt="Visitor Count" />
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:133f6e,100:3da37a&height=120&section=footer" width="100%" alt="Footer" />
 </div>
 
